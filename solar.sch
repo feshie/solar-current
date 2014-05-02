@@ -6229,11 +6229,11 @@ Source: http://www.molex.com/pdm_docs/sd/026604100_sd.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="J1" library="powerpoles" deviceset="POWERPOLE_POWER" device="10AWG"/>
-<part name="J2" library="powerpoles" deviceset="POWERPOLE_POWER" device="10AWG"/>
-<part name="J3" library="powerpoles" deviceset="POWERPOLE_POWER" device="10AWG"/>
-<part name="J4" library="powerpoles" deviceset="POWERPOLE_POWER" device="10AWG"/>
-<part name="J5" library="powerpoles" deviceset="POWERPOLE_POWER" device="10AWG"/>
+<part name="J1" library="powerpoles" deviceset="POWERPOLE_POWER" device="25A" value="POWERPOLE_POWER25A"/>
+<part name="J2" library="powerpoles" deviceset="POWERPOLE_POWER" device="25A" value="POWERPOLE_POWER25A"/>
+<part name="J3" library="powerpoles" deviceset="POWERPOLE_POWER" device="25A" value="POWERPOLE_POWER25A"/>
+<part name="J4" library="powerpoles" deviceset="POWERPOLE_POWER" device="25A" value="POWERPOLE_POWER25A"/>
+<part name="J5" library="powerpoles" deviceset="POWERPOLE_POWER" device="25A" value="POWERPOLE_POWER25A"/>
 <part name="GND1" library="glacsweb" deviceset="GND" device=""/>
 <part name="GND2" library="glacsweb" deviceset="GND" device=""/>
 <part name="GND3" library="glacsweb" deviceset="GND" device=""/>
